@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="phoneExample">Ex.: 12-93456-7890</string>
+</resources>
